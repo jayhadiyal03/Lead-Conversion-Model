@@ -13,5 +13,3 @@ The model effectively prioritizes leads, helping the sales team focus on the mos
 
 # Files:
 --> Jupyter Notebook: Contains the full analysis, model training, and evaluation.
---> Presentation: Summarizes the project approach, key results, and business insights.
---> Report: A detailed summary of the methodology, findings, and recommendations for improving lead conversion.
